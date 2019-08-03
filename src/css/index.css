@@ -1,1 +1,9 @@
-
+body {
+    background-color: #2A3990;
+}
+mark{
+    background-color: yellow;
+}
+.hidenshow{
+    visibility: hidden;
+}
